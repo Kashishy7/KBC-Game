@@ -1,6 +1,6 @@
 QUESTIONS = [
     {
-        "name": "What is the name of the guy who plays Star Lord in the MCU?",
+        "name": "1. What is the name of the guy who plays Star Lord in the MCU?",
         "option1": "Chris Hemsworth",
         "option2": "Tom Hiddleston",
         "option3": "Chris Pratt",
@@ -9,7 +9,7 @@ QUESTIONS = [
         "money": 1000
     },
     {
-        "name": "Which of the infinity stones were hidden on Vormir?",
+        "name": "2. Which of the infinity stones were hidden on Vormir?",
         "option1": "Power",
         "option2": "Soul",
         "option3": "Mind",
@@ -18,7 +18,7 @@ QUESTIONS = [
         "money": 2000
     },
     {
-        "name": "What is Loki's Title?",
+        "name": "3. What is Loki's Title?",
         "option1": "God of Mischief",
         "option2": "God of Trouble",
         "option3": "Prince of Jotunn",
@@ -28,7 +28,7 @@ QUESTIONS = [
     },
     {
 
-        "name": "What type of radiation caused Bruce Banner to become the Hulk?",
+        "name": "4. What type of radiation caused Bruce Banner to become the Hulk?",
         "option1": "Alpha",
         "option2": "Gamma",
         "option3": "X-Rays",
@@ -38,7 +38,7 @@ QUESTIONS = [
     },
     {
 
-        "name": "What is Deadpool's real name?",
+        "name": "5. What is Deadpool's real name?",
         "option1": "Ryan Reynolds",
         "option2": "Colossus",
         "option3": "Wade Wilson",
@@ -48,7 +48,7 @@ QUESTIONS = [
     },
     {
 
-        "name": "What is Agnes's rabbit named?",
+        "name": "6. What is Agnes's rabbit named?",
         "option1": "Snowy",
         "option2": "Fuzzy Ball",
         "option3": "Snoopy",
@@ -58,7 +58,7 @@ QUESTIONS = [
     },
     {
 
-        "name": "What is the name of T'Challa's Sister?",
+        "name": "7. What is the name of T'Challa's Sister?",
         "option1": "Shuri",
         "option2": "Okoye",
         "option3": "Nakia",
@@ -67,7 +67,7 @@ QUESTIONS = [
         "money": 40000
     },
     {
-        "name": "Who are the shape-shifting villains in Captain Marvel?",
+        "name": "8. Who are the shape-shifting villains in Captain Marvel?",
         "option1": "Flerken",
         "option2": "Kree",
         "option3": "Ravagers",
@@ -76,7 +76,7 @@ QUESTIONS = [
         "money": 80000
     },
     {
-        "name": "What kind of scientist is Jane Foster?",
+        "name": "9. What kind of scientist is Jane Foster?",
         "option1": "Bio Researcher",
         "option2": "Nuclear Physicist",
         "option3": "Organic Chemist",
@@ -85,7 +85,7 @@ QUESTIONS = [
         "money": 160000
     },
     {
-        "name": " What was the first Iron Man suit called?",
+        "name": " 10. What was the first Iron Man suit called?",
         "option1": "Mark V",
         "option2": "Mark 1",
         "option3": "Silver Centurion",
@@ -94,7 +94,7 @@ QUESTIONS = [
         "money": 320000
     },
     {
-        "name": "Which relic chooses Dr. Strange?",
+        "name": "11. Which relic chooses Dr. Strange?",
         "option1": "The Eye of Agamotto",
         "option2": "The Wand of Watoomb",
         "option3": "The Infinity Stone",
@@ -104,7 +104,7 @@ QUESTIONS = [
 
     },
     {
-        "name": "Which movie has Peter Parker not referenced in an MCU movie?",
+        "name": "12. Which movie has Peter Parker not referenced in an MCU movie?",
         "option1": "Alien",
         "option2": "Footloose",
         "option3": "Top Gun",
@@ -114,7 +114,7 @@ QUESTIONS = [
     },
     {
 
-        "name": "What planet is Gamora from?",
+        "name": "13. What planet is Gamora from?",
         "option1": "Morag",
         "option2": "Vormir",
         "option3": "Nornheim",
@@ -124,7 +124,7 @@ QUESTIONS = [
     },
     {
 
-        "name": "What was Valkyrie scrapper number?",
+        "name": "14. What was Valkyrie scrapper number?",
         "option1": "128",
         "option2": "124",
         "option3": "142",
@@ -133,7 +133,7 @@ QUESTIONS = [
         "money": 5000000
     },
     {
-        "name": "Where does Scott Lang serve his 3-year prison sentence?",
+        "name": "15. Where does Scott Lang serve his 3-year prison sentence?",
         "option1": "Leavenworth",
         "option2": "San Quentin",
         "option3": "Alcatraz",
